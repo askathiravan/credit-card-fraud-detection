@@ -1,0 +1,6 @@
+amount,hour,location,merchant,txn_type,fraud
+200,10,Domestic,Retail,Offline,0
+5000,23,International,E-commerce,Online,1
+1500,21,Domestic,Fuel,Offline,0
+9000,2,International,ATM,Online,1
+300,14,Domestic,Retail,Offline,0
